@@ -1,4 +1,4 @@
-
+![Netflix Logo](https://seeklogo.com/images/N/netflix-n-logo-0F1ED3EBEB-seeklogo.com.png)
 
 
 # Netflix Clone Project
