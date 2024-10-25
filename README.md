@@ -97,6 +97,13 @@ This project serves as a starter template. Future features could include:
 - Integration of a payment system for subscriptions.
 - Enhanced content management admin panel.
 
+## Contact Information
+
+For any questions or concerns regarding the course, please reach out to:
+
+- **Instructor:** [Maziyar kolagar]
+- **Email:** [maziyarkolagar@gmail.com]
+  
 ## Contributing
 
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
